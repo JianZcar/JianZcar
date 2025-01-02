@@ -1,18 +1,35 @@
-## Hi there 👋
+# Hi there, I'm JianZcar! 👋
 
-<!--
-**JianZcar/JianZcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://imgur.com/6yxbb2g.png)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer with a love for coding and technology. Here are a few things about me:
 
+- 🌱 I’m currently learning containers
+- 🔭 I’m currently working on N/A
+- 📫 How to reach me: pub.esteban.jianzcar@outlook.com
 
+## Get in Touch
+
+You can find me on:
+
+- [Facebook](https://www.facebook.com/jian.zcar.esteban.pro)
+
+Feel free to reach out if you want to collaborate on a project or just want to chat!
+
+## GitHub Stats
+
+![JianZcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianzcar&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzcar&layout=compact&theme=radical)
+
+## Support
+
+If you like my work, consider buying me a coffee:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+
+Thanks for stopping by! Have a great day! 😊
