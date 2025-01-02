@@ -30,6 +30,6 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 
 If you like my work, consider buying me a coffee:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/jianzcar)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jianzcar)
 
 Thanks for stopping by! Have a great day! 😊
