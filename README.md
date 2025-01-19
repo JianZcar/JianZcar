@@ -1,13 +1,11 @@
 # Hi there, I'm JianZcar! 👋
 
-![Profile Banner](https://imgur.com/6yxbb2g.png)
-
 ## About Me
 
 I'm a passionate developer with a love for coding and technology. Here are a few things about me:
 
 - 🌱 I’m currently learning containers
-- 🔭 I’m currently working on N/A
+- 🔭 I’m currently working on [notes-bash](https://github.com/JianZcar/notes-bash)
 - 📫 How to reach me: pub.esteban.jianzcar@outlook.com
 
 ## Get in Touch
