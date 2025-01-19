@@ -20,11 +20,11 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 
 ## GitHub Stats
 
-![JianZcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianzcar&show_icons=true&theme=radical)
+![JianZcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianzcar&show_icons=true&theme=transparent)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzcar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzcar&layout=compact&theme=transparent)
 
 ## Support
 
