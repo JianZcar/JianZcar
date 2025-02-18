@@ -13,6 +13,7 @@ I'm a passionate developer with a love for coding and technology. Here are a few
 You can find me on:
 
 - [Facebook](https://www.facebook.com/jian.zcar.esteban.pro)
+- [LinkedIn](https://www.linkedin.com/in/jian-z-car-esteban-057018305/)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat!
 
