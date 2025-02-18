@@ -15,7 +15,7 @@ You can find me on:
 - [Facebook](https://www.facebook.com/jian.zcar.esteban.pro)
 - [LinkedIn](https://www.linkedin.com/in/jian-z-car-esteban-057018305/)
 
-Feel free to reach out if you want to collaborate on a project or just want to chat!
+Feel free to reach out if you want to collaborate on a project!
 
 ---
 ![JianZcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianzcar&show_icons=true&theme=transparent)
