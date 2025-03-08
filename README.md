@@ -1,4 +1,5 @@
 # Hi there, I'm JianZcar! 👋
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FJianZcar&query=%24.stars&prefix=%E2%AD%90%EF%B8%8F&style=for-the-badge&logo=github&label=STARS%20">
 
 ## About Me
 
