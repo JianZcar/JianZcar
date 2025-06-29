@@ -18,6 +18,8 @@ You can find me on:
 Feel free to reach out if you want to collaborate on a project!
 
 ---
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=jianzcar&theme=transparent)
 ![JianZcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianzcar&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzcar&layout=compact&theme=transparent)
 
