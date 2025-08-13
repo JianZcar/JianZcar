@@ -1,4 +1,5 @@
-# Hi there, I'm Jian Zcar! <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FJianZcar&query=%24.stars&style=social&label=%E2%AD%90&link=https%3A%2F%2Fgithub.com%2FJianZcar%3Ftab%3Drepositories">
+# Hi there, I'm Jian Zcar! ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FJianZcar&query=%24.stars&style=social&label=%E2%AD%90&link=https%3A%2F%2Fgithub.com%2FJianZcar%3Ftab%3Drepositories)
+
 
 
 ## About Me <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NhOG90d2JtZ2twaXg4bThyZ29naWUyOHRkMXp6enl5aGh5eWxxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/okcxA1RnD8LXOk8IWV/giphy.gif" alt="Blink" width="100"/> 
