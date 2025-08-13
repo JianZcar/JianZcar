@@ -28,7 +28,6 @@ Feel free to reach out if you want to collaborate on a project!
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 ## Support
 
 If you like my work, consider buying me a coffee:
