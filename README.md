@@ -7,7 +7,8 @@
 I enjoy finding the easiest way to solve problems and simplifying complex ideas, Really lovin Linux so much so i made a Bootc Image check it out :>
 
 - 🔭 I’m currently working on Zena
-- 📫 How to reach me: jian.zcar.defiant834@simplelogin.com (Emails sent to my other addresses will go unanswered.
+- 📫 How to reach me: jian.zcar.defiant834@simplelogin.com
+> Emails sent to my other addresses will go unanswered.
 
 ## Get in Touch
 
